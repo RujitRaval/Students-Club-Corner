@@ -1,0 +1,46 @@
+body {
+	font:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	background:url(../IMAGES/active.png);
+	
+}
+
+
+#background {
+background:url(../IMAGES/cb.png) repeat;
+height:230px;
+width:820px;
+text-align:center;
+}
+
+#background p {
+text-align:center;
+font-size:40px;
+text-decoration:blink;
+}
+
+#mar{
+width:820px;
+
+}
+
+#gridtable{
+border:#009;
+background:#9CC;
+padding: 10px;
+margin-top:20px;
+border-radius:10px;
+}
+
+
+#gridtable th {
+font-size:24px;
+font-weight:bold;
+background:#999;
+
+}
+
+#gridtable td {
+	background:#FFF;
+}
+
